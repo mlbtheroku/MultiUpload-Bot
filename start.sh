@@ -1,1 +1,1 @@
-python3 server.py & python3 -m 
+python3 server.py & python3 -m multiupload
